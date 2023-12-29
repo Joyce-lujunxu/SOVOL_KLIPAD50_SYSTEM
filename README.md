@@ -53,7 +53,7 @@ Putty is a famous tool, you can use either SSH or Serial to connect to the KLIPA
 ![COM](https://user-images.githubusercontent.com/12979070/175967056-dd6aec07-084d-4b05-8199-88709755ea64.png)  
 
 - If you open a black empty window, click the Enter key, and it will ask you to enter the login user and password
-- There are two users in the system provided by Makerbase:
+- There are two users in the system provided:
   
   > root user: root  
   > user2: mks  
