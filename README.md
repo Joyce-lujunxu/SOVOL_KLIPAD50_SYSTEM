@@ -1,7 +1,7 @@
 # SOVOL_KLIPAD50_SYSTEM
 This is information about the KLIPAD50 image
 
-# Features and advantages OF klipad50  
+# Features and advantages of klipad50  
 1. Onboard powerful 4-core 64-bit core SOC, with 1GBytes of DDR3 memory;
 2. DC12/24V power supply, more stable power supply;
 3. With HDMI 800*480 IPS LCD and capacitive touch screen;
